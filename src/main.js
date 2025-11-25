@@ -5,10 +5,10 @@ document.querySelector('#app').innerHTML = `
     <h1 class="display-3 fw-bold text-primary text-center mb-5">Oferta Especial</h1>
     <div class="row justify-content-center mb-4 g-4 w-100" style="max-width: 900px;">
       <div class="col-12 col-md-6 d-flex justify-content-center">
-        <img src="../1.jpg" alt="Imagem do carro 1" class="img-fluid rounded-3 shadow-lg mb-3" style="max-width: 420px;"/>
+        <img src="1.jpg" alt="Imagem do carro 1" class="img-fluid rounded-3 shadow-lg mb-3" style="max-width: 420px;"/>
       </div>
       <div class="col-12 col-md-6 d-flex justify-content-center">
-        <img src="../2.jpg" alt="Imagem do carro 2" class="img-fluid rounded-3 shadow-lg mb-3" style="max-width: 420px;"/>
+        <img src="2.jpg" alt="Imagem do carro 2" class="img-fluid rounded-3 shadow-lg mb-3" style="max-width: 420px;"/>
       </div>
     </div>
     <div class="row justify-content-center w-100" style="max-width: 900px;">
